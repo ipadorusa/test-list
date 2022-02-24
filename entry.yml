@@ -1,0 +1,204 @@
+- category: 메인
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/
+  auth: false
+- category: 지역별
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/jobs/list/domestic
+  auth: false
+- category: 직업별
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/jobs/list/job-category
+  auth: false
+- category: 헤드헌팅
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/jobs/list/headhunting
+  auth: false
+- category: 인기공고 HOT100
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/jobs/hot100
+  auth: false
+- category: 공채
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/jobs/public/list
+  auth: false
+- category: 채용달력
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/calendar
+  auth: false
+- category: 공채 예상 일정
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/public-recruit/schedule
+  auth: false
+- category: 공사·공기업 채용 일정
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/jobs/public/list?sort=ud&quick_apply=&search_day=&keyword=&company_scale%5B%5D=4#listTop
+  auth: false
+- category: 채용설명회 일정
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/public-recruit/job-fair-schedule?sort=dd&&search_word=&jobfair_type=0
+  auth: false
+- category: 기업 연구소
+  subcategory: 전체 연봉 정보
+  url: https://www.saramin.co.kr/zf_user/salaries/total-salary/list
+  auth: false
+- category: 기업 연구소
+  subcategory: 연봉정보 상세 (기업별)
+  url: https://www.saramin.co.kr/zf_user/salaries/total-salary/view?csn=1248100998&list_type=total&order=rank&page=1&page_num=20
+  auth: false
+- category: 기업 연구소
+  subcategory: 기업형태별 평균연봉
+  url: https://www.saramin.co.kr/zf_user/salaries/company/enterprise-list
+  auth: false
+- category: 기업 연구소
+  subcategory: 연봉정보 FAQ
+  url: https://www.saramin.co.kr/zf_user/salaries/total-salary/faq
+  auth: false
+- category: 기업 연구소
+  subcategory: 직무인터뷰
+  url: https://www.saramin.co.kr/zf_user/career-information/senior-list
+  auth: false
+- category: 기업 연구소
+  subcategory: 직무인터뷰 상세
+  url: https://www.saramin.co.kr/zf_user/career-information/senior-view?doc_idx=21800&page=1
+  auth: false
+- category: 기업 연구소
+  subcategory: 기업뉴스
+  url: https://www.saramin.co.kr/zf_user/jobarchive/company-news
+  auth: false
+- category: 기업 연구소
+  subcategory: 기업뉴스 상세
+  url: https://www.saramin.co.kr/zf_user/jobarchive/company-news/view?idx=141689
+  auth: false
+- category: 기업 연구소
+  subcategory: 이력서 양식 다운로드
+  url: https://www.saramin.co.kr/zf_user/pds-resume/resume-download
+  auth: false
+- category: 기업 연구소
+  subcategory: 이력서 양식 다운로드 상세
+  url: https://www.saramin.co.kr/zf_user/pds-resume/resume-download/page/1/idx/4078
+  auth: false
+- category: 기업 연구소
+  subcategory: 무료 서식 다운로드
+  url: https://www.saramin.co.kr/zf_user/business-form-templates/list?sort_key=hif003
+  auth: false
+- category: 기업 연구소
+  subcategory: 무료 서식 다운로드 상세
+  url: https://www.saramin.co.kr/zf_user/business-form-templates/view?idx=11724&page=1&pageCount=60&sort_key=hif003
+  auth: false
+- category: 기업 연구소
+  subcategory: 글자수세기/맞춤법 검사기
+  url: https://www.saramin.co.kr/zf_user/tools/character-counter
+  auth: false
+- category: 기업 연구소
+  subcategory: 사진크기 조정
+  url: https://www.saramin.co.kr/zf_user/tools/photo-cropper
+  auth: false
+- category: 기업 연구소
+  subcategory: 연봉 계산기
+  url: https://www.saramin.co.kr/zf_user/tools/salary-calculator
+  auth: false
+- category: 기업 연구소
+  subcategory: 실수령액 계산기
+  url: https://www.saramin.co.kr/zf_user/tools/reverse-salary-calculator
+  auth: false
+- category: 기업 연구소
+  subcategory: 퇴직금 계산기
+  url: https://www.saramin.co.kr/zf_user/tools/retire-calculator
+  auth: false
+- category: 기업 연구소
+  subcategory: 실업급여 계산기
+  url: https://www.saramin.co.kr/zf_user/tools/unemp-calculator
+  auth: false
+- category: 기업 연구소
+  subcategory: 연차/휴가 계산기
+  url: https://www.saramin.co.kr/zf_user/tools/holi-calculator
+  auth: false
+- category: 기업 연구소
+  subcategory: 졸업/전역연도 계산기
+  url: https://www.saramin.co.kr/zf_user/tools/gradu-calculator
+  auth: false
+- category: 기업 연구소
+  subcategory: 학점 변환기
+  url: https://www.saramin.co.kr/zf_user/tools/grade-converter
+  auth: false
+- category: 기업 연구소
+  subcategory: 어학점수 변환기
+  url: https://www.saramin.co.kr/zf_user/tools/score-converter
+  auth: false
+- category: 로그인
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/auth
+  auth: false
+- category: 큐레이션
+  subcategory: 홈
+  url: https://www.saramin.co.kr/zf_user/curation
+  auth: false
+- category: 큐레이션
+  subcategory: 전체보기
+  url: https://www.saramin.co.kr/zf_user/curation/all
+  auth: false
+- category: 큐레이션
+  subcategory: 목록
+  url: https://www.saramin.co.kr/zf_user/jobs/list/curation?category_seq=651
+  auth: false
+- category: 공고 상세
+  subcategory: relay
+  url: https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=39779528&recommend_ids=eJxdkcsZwyAMg6fp3U%2FZPncQ9t%2BiyRcwNMcfI0sIrSQmq%2BGFT3z1wGHPAYsFRtgzj7Qi6%2BuRwsnDwS%2Bc6lCF1ADJC3s7yuRa59MdCj3MuNwHKl%2B4tmfEbddhFs45zJDR842dLgLY%2BsZO5%2BK6u2lsf076izux9UFU%2B3WNSx%2BibLu9xt2OIw79wjWn67e8%2FVOo8liXnvdzFnrV1dzV%2FQ8m529k&view_type=list&gz=1&t_ref_content=general&t_ref=curation#seq=0
+  auth: false
+- category: 공고 상세
+  subcategory: 단일
+  url: https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=39797678
+  auth: false
+- category: 기업 상세
+  subcategory: 기업소개
+  url: https://www.saramin.co.kr/zf_user/company-info/view/csn/UjVaSHBEcTFsdFUzQ3F4dDFTeXVKZz09/company_nm/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90(%EC%A3%BC)
+  auth: false
+- category: 기업 상세
+  subcategory: 인재채용
+  url: https://www.saramin.co.kr/zf_user/company-info/view-inner-recruit?csn=UjVaSHBEcTFsdFUzQ3F4dDFTeXVKZz09
+  auth: false
+- category: 기업 상세
+  subcategory: 연봉정보
+  url: https://www.saramin.co.kr/zf_user/company-info/view-inner-salary?csn=UjVaSHBEcTFsdFUzQ3F4dDFTeXVKZz09
+  auth: false
+- category: 기업 상세
+  subcategory: 재무정보
+  url: https://www.saramin.co.kr/zf_user/company-info/view-inner-finance?csn=UjVaSHBEcTFsdFUzQ3F4dDFTeXVKZz09
+  auth: false
+- category: 검색 결과
+  subcategory:
+  url: https://www.saramin.co.kr/zf_user/search
+  auth: false
+- category: 개인My
+  subcategory: 홈
+  url: https://www.saramin.co.kr/zf_user/member/persons/main
+  auth: true
+- category: 개인My
+  subcategory: 이력서 등록
+  url: https://www.saramin.co.kr/zf_user/member/resume-manage/write?template_cd=1
+  auth: true
+- category: 개인My
+  subcategory: 이력서 관리
+  url: https://www.saramin.co.kr/zf_user/resume/resume-manage
+  auth: true
+- category: 개인My
+  subcategory: 이력서 수정
+  url: https://www.saramin.co.kr/zf_user/member/resume-manage/edit?res_idx=10399333
+  auth: true
+- category: 개인My
+  subcategory: 지원할만한 공고 - 내 공고 활동
+  url: https://www.saramin.co.kr/zf_user/persons/scrap-recruit
+  auth: true
+- category: 개인My
+  subcategory: 지원할만한 공고 - 추천
+  url: https://www.saramin.co.kr/zf_user/member/avatar/list
+  auth: true
+- category: 개인My
+  subcategory: 입사지원 현황
+  url: https://www.saramin.co.kr/zf_user/persons/apply-status-list
+  auth: true
+- category: 개인My
+  subcategory: 구직활동 확인서
+  url: https://www.saramin.co.kr/zf_user/persons/certificate
+  auth: true
