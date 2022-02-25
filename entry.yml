@@ -140,7 +140,7 @@
   auth: false
 - category: 큐레이션
   subcategory: 목록
-  url: https://www.saramin.co.kr/zf_user/jobs/list/curation?category_seq=651
+  url: https://www.saramin.co.kr/zf_user/jobs/list/curation?category_seq=39
   auth: false
 - category: 공고 상세
   subcategory: relay
